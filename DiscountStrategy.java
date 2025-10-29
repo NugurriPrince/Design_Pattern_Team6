@@ -1,5 +1,4 @@
-// 기능 : 할인 전략 인터페이스
-
+// 파일 이름: DiscountStrategy.java
 public interface DiscountStrategy {
     double applyDiscount(double originalFee);
     String getStrategyName();

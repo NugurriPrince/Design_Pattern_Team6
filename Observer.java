@@ -1,5 +1,4 @@
-// 기능 : 옵저버 인터페이스
-
+// 파일 이름: Observer.java
 public interface Observer {
     void update(Item item);
 }
